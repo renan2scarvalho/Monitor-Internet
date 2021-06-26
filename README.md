@@ -1,5 +1,3 @@
-# Monitor de Velocidade da Internet
+# Objetivo
 
-## Objectivo
-
-Monitoramento da velocidade (download e upload) da internet
+Script em python para analisar a velocidade da internet

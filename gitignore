@@ -1,0 +1,28 @@
+### Eliminando diretorios compilados do Python
+*__pycache__/*
+*/__pycache__/*
+__pycache__/*
+# ### Arquivos Temporarios
+~*.*
+*.*~
+# ### Arquivos Compilados
+*.pyc
+*.pyo
+# ### Arquivos do VsCode
+.vscode/
+# ### Arquivos do Virtual Enviroment
+envs/*
+venv/*
+env/*
+.envs/*
+.venv/*
+.env/*
+# log
+# Arquivos e pastas escritos no momento da rodada
+outputs/*
+saida/*
+Saidas/*
+logs/*
+# Passwords
+.secrets*
+
